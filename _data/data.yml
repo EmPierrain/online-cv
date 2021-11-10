@@ -175,22 +175,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Lorem ipsum
+      - name: Linux/AIX
         level: 98%
 
-      - name: Lorem ipsum
+      - name: Websphere MQ
         level: 98%
 
-      - name: Lorem ipsum
+      - name: Tivoli Workload Station
         level: 98%
 
       - name: Lorem ipsum
         level: 95%
 
-      - name: Lorem ipsum
+      - name: Jenkins/Gitlab CI
         level: 85%
 
-      - name: Lorem ipsum
+      - name: SQL
         level: 60%
 
 #footer: >

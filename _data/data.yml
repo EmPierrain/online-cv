@@ -65,7 +65,7 @@ education:
         ISIMA (Institut Supérieur d’Informatique, de Modélisation et de leurs Applications) is an enginnering school specialized in computer science in the Auvergne region.
           - Bullet point
           - Bullet point
-    - degree: CPGE (MPSI - PSI)
+    - degree: CPGE
       university: Lycée François Arago, Perpignan
       time: 2013 - 2016
       details: |
@@ -74,8 +74,8 @@ education:
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - MPSI
+          - PSI
     - degree: BAC S
       university: Lycée Sainte Trinité, Béziers
       time: 2013

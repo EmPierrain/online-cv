@@ -58,20 +58,16 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: Lorem ipsum
+    - degree: Engineer in Computer Science
       university: ISIMA, Clermont-Ferrand
-      time: 2011 - 2012
+      time: 2016 - 2019
       details: |
-        lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        ISIMA (Institut Supérieur d’Informatique, de Modélisation et de leurs Applications) is an enginnering school specialized in computer science in the Auvergne region.
           - Bullet point
           - Bullet point
-    - degree: Lorem ipsum
+    - degree: CPGE (MPSI - PSI)
       university: Lycée François Arago, Perpignan
-      time: 2007 - 2011
+      time: 2013 - 2016
       details: |
         lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -80,6 +76,11 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
+    - degree: BAC S
+      university: Lycée Sainte Trinité, Béziers
+      time: 2013
+
+
 experiences:
     - role: DevOps Engineer
       time: 2019 - Present
@@ -176,19 +177,16 @@ skills:
 
     toolset:
       - name: Linux/AIX
-        level: 98%
+        level: 90%
 
       - name: Websphere MQ
-        level: 98%
+        level: 85%
 
       - name: Tivoli Workload Station
-        level: 98%
-
-      - name: Lorem ipsum
-        level: 95%
+        level: 85%
 
       - name: Jenkins/Gitlab CI
-        level: 85%
+        level: 80%
 
       - name: SQL
         level: 60%

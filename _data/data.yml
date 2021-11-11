@@ -12,10 +12,10 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: mendoza.emmanuel34@gmail.com
+    email: Gmail
     phone: 
     website:  #do not add http://
-    linkedin: emmanuel-pierrain-bbb1a3152
+    linkedin: emmanuel-pierrain
     xing: 
     github: EmPierrain
     telegram: # add your nickname without '@' sign
@@ -48,106 +48,72 @@ sidebar:
       - item: Music
         link:
 
-career-profile:
-    title: Career Profile
-    summary: |
-      lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+#career-profile:
+#    title: Career Profile
+#    summary: |
+#      lorem ipsum dolor sit amet, consectetuer
+#      adipiscing elit. You can [download this free resume/CV template here]().
+#      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+#      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+#      Donec quam felis, ultricies nec, pellentesque eu.
+#      Second paragraph if required.
+
 education:
-    - degree: Lorem ipsum
+    - degree: Master's degree in Computer Science Engineering
       university: ISIMA, Clermont-Ferrand
-      time: 2011 - 2012
+      time: 2016 - 2019
       details: |
-        lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: Lorem ipsum
+        ISIMA (Institut Supérieur d’Informatique, de Modélisation et de leurs Applications) is an enginnering school specialized in computer science in the Auvergne region.
+          - F5 - Network and Security
+    - degree: CPGE
       university: Lycée François Arago, Perpignan
-      time: 2007 - 2011
+      time: 2013 - 2016
       details: |
-        lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        French Higher School Preparatory Classes that teach the core courses to enter en Graduate Schools in 2 years. I followed the usual curriculum to attend national competitive exams.
+          - MPSI
+          - PSI
+    - degree: BAC S
+      university: Lycée Sainte Trinité, Béziers
+      time: 2013
+
+
 experiences:
     - role: DevOps Engineer
       time: 2019 - Present
       company: CGI, Clermont-Ferrand
       details: |
-        lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        With a team of 40 people, my role is to deploy evolutions on one application. To do it smoothly and without issues, I have to respect strict rules, automate release actions and be aware of updates. Alongside, I must follow different environments and test phases with different actors and specificities.
+          - GitLab & Gitlab CI
+          - Jenkins
+          - Linux / AIX
+          - Websphere MQ
+          - Agile Methodology
     - role: DevOps Trainee
-      time: 2019 - 2019
+      time: 2019
       company: CGI, Clermont-Ferrand
       details: |
-        lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        This 6 months internship's mission was to implement an LDAP connection into an existing application for a client. Respecting the client security policy, I implemented a more secured option (LDAPS) and proposed different solutions to authenticate user extern to the Active Directory.
+          - LDAP/LDAPS
+          - Active Directory
+          - Agile Methodology
     - role: Developer Trainee
-      time: 20180 - 2018
+      time: 2018
       company: Ingérop, Clermont-Ferrand
       details: |
-        lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        I had one main mission during this 6 months internship: Create from from scratch a mobile application of mixed reality to see future buildings that were still in the design phase. With no specifications yet, I was free to choose the technologies to use for this project.
+          - Unity
+          - C#
 projects:
     title: Projects
-    intro: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    #intro: >
+    #  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #  Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Lorem ipsum
-        link: "#hook"
-        tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+      - title: DIY Smart Speakers
+        #link: "#hook"
+        tagline: "From designing to conception, I created my own speakers, accessible through a web interface and connected to Spotify."
 
-      - title: Lorem ipsum
-        link: "#"
-        tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-
-      - title: Lorem ipsum
-        link: "#"
-        tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-
-      - title: Lorem ipsum
-        link: "#"
-        tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-
-      - title: Lorem ipsum
-        link: "#"
-        tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+      
 
 #publications:
 #    title: Publications
@@ -175,22 +141,19 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Lorem ipsum
-        level: 98%
+      - name: Linux / AIX
+        level: 90%
 
-      - name: Lorem ipsum
-        level: 98%
-
-      - name: Lorem ipsum
-        level: 98%
-
-      - name: Lorem ipsum
-        level: 95%
-
-      - name: Lorem ipsum
+      - name: Websphere MQ
         level: 85%
 
-      - name: Lorem ipsum
+      - name: Tivoli Workload Station
+        level: 85%
+
+      - name: Jenkins/Gitlab CI
+        level: 80%
+
+      - name: SQL
         level: 60%
 
 #footer: >

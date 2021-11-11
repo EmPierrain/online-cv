@@ -109,13 +109,13 @@ experiences:
           - C#
 projects:
     title: Projects
-    intro: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    #intro: >
+    #  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #  Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: DIY Smart Speakers
         #link: "#hook"
-        tagline: "From designing to conception, I created my own speaker, accessible through a web interface and connected to Spotify, from scratch."
+        tagline: "From designing to conception, I created my own speaker, accessible through a web interface and connected to Spotify."
 
       
 

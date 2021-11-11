@@ -86,19 +86,14 @@ experiences:
       time: 2019 - Present
       company: CGI, Clermont-Ferrand
       details: |
-        lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        With a team of 40 people, my role is to deploy evolutions on one application. To do it smoothly and without issues, I have to respect strict rules, automate release actions and be aware of updates. Alongside, I must follow different environments and test phases with different actors and specificities.
+          - GitLab & Gitlab CI
+          - Jenkins
+          - Aix / Linux
+          - Websphere MQ
+          - Agile Methodology
     - role: DevOps Trainee
-      time: 2019 - 2019
+      time: 2019
       company: CGI, Clermont-Ferrand
       details: |
         This 6 months internship's mission was to implement an LDAP connection into an existing application for a client. Respecting the client security policy, I implemented a more secured option (LDAPS) and proposed different solutions to authenticate user extern to the Active Directory.
@@ -106,7 +101,7 @@ experiences:
           - Active Directory
           - Agile Methodology
     - role: Developer Trainee
-      time: 20180 - 2018
+      time: 2018
       company: Ingérop, Clermont-Ferrand
       details: |
         I had one main mission during this 6 months internship: Create from from scratch a mobile application of mixed reality to see future buildings that were still in the design phase. With no specifications yet, I was free to choose the technologies to use for this project.
@@ -118,30 +113,11 @@ projects:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Lorem ipsum
-        link: "#hook"
-        tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+      - title: DIY Smart Speakers
+        #link: "#hook"
+        tagline: "From designing to conception, I created my own speaker, accessible through a web interface and connected to Spotify, from scratch."
 
-      - title: Lorem ipsum
-        link: "#"
-        tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-
-      - title: Lorem ipsum
-        link: "#"
-        tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-
-      - title: Lorem ipsum
-        link: "#"
-        tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-
-      - title: Lorem ipsum
-        link: "#"
-        tagline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+      
 
 #publications:
 #    title: Publications

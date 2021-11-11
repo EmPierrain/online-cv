@@ -101,24 +101,17 @@ experiences:
       time: 2019 - 2019
       company: CGI, Clermont-Ferrand
       details: |
-        lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        This 6 months internship's mission was to implement an LDAP connection into an existing application for a client. Respecting the client security policy, I implemented a more secured option (LDAPS) and proposed different solutions to authenticate user extern to the Active Directory.
+          - LDAP/LDAPS
+          - Active Directory
+          - Agile Methodology
     - role: Developer Trainee
       time: 20180 - 2018
       company: Ingérop, Clermont-Ferrand
       details: |
-        lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        I had one main mission during this 6 months internship: Create from from scratch a mobile application of mixed reality to see future buildings that were still in the design phase. With no specifications yet, I was free to choose the technologies to use for this project.
+          - Unity
+          - C#
 projects:
     title: Projects
     intro: >

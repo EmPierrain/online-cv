@@ -79,7 +79,7 @@ education:
 
 experiences:
     - role: DevOps Engineer
-      time: 2019 - Present
+      time: 2019 - 2022
       company: CGI, Clermont-Ferrand
       details: |
         With a team of 40 people, my role is to deploy evolutions on one application. To do it smoothly and without issues, I have to respect strict rules, automate release actions and be aware of updates. Alongside, I must follow different environments and test phases with different actors and specificities.
